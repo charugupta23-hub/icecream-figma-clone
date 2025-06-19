@@ -1,7 +1,7 @@
 export const pagesData = [
   {
     flavor: "Strawberry cone",
-    description: "Dive into our luscious strawberry scoop that refreshes your soul.",
+    description: "Embark on a culinary journey of Delight as You Immerse Yourself in Our Artisan-Crafted Ice Cream Collection—Each Flavor a Story, Each Scoop an Unforgettable Chapter in Your Sweet Odyssey! Indulge in a World of Imagination, Where Every Scoop Unveils  a New Taste Adventure! Choose your favorite",
     bgGradient: "linear-gradient(90deg, #be128d 0%, #ff6cee 100%)",
     image: "/assets/strawberry.png",
     miniImages: [
@@ -13,7 +13,7 @@ export const pagesData = [
   },
   {
     flavor: "Blueberry cone",
-    description: "A fruity blueberry blast to make your tastebuds dance.",
+    description: "Embark on a culinary journey of Delight as You Immerse Yourself in Our Artisan-Crafted Ice Cream Collection—Each Flavor a Story, Each Scoop an Unforgettable Chapter in Your Sweet Odyssey! Indulge in a World of Imagination, Where Every Scoop Unveils  a New Taste Adventure! Choose your favorite",
     bgGradient: "linear-gradient(90deg, #236cda 0%, #47C4f6 100%)",
     image: "/assets/blueberry.png",
     miniImages: [
@@ -25,7 +25,7 @@ export const pagesData = [
   },
   {
     flavor: "Chocolate cone",
-    description: "Classic chocolate that melts hearts with every bite.",
+    description: "Embark on a culinary journey of Delight as You Immerse Yourself in Our Artisan-Crafted Ice Cream Collection—Each Flavor a Story, Each Scoop an Unforgettable Chapter in Your Sweet Odyssey! Indulge in a World of Imagination, Where Every Scoop Unveils  a New Taste Adventure! Choose your favorite",
     bgGradient: "linear-gradient(90deg, #9c5c3f 0%, #e0bdb0 100%)",
     image: "/assets/chocolate.png",
     miniImages: [
@@ -37,7 +37,7 @@ export const pagesData = [
   },
   {
     flavor: "Evergreen cone",
-    description: "Fresh minty delight to chill your senses.",
+    description: "Embark on a culinary journey of Delight as You Immerse Yourself in Our Artisan-Crafted Ice Cream Collection—Each Flavor a Story, Each Scoop an Unforgettable Chapter in Your Sweet Odyssey! Indulge in a World of Imagination, Where Every Scoop Unveils  a New Taste Adventure! Choose your favorite",
     bgGradient: "linear-gradient(90deg, #2a9949 0%, #47f66e 100%)",
     image: "/assets/evergreen.png",
     miniImages: [

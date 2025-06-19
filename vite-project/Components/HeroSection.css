@@ -26,6 +26,7 @@
 }
 
 .hero__title {
+    margin-top: 0;
   font-family: 'Pacifico', cursive;
   font-size: clamp(3rem, 8vw, 10rem);
   font-weight: 400;
