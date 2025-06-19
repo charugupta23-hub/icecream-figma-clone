@@ -4,7 +4,7 @@ export const pagesData = [
     flavor: "Strawberry cone",
     description: "Dive into our luscious strawberry scoop that refreshes your soul.",
     bgGradient: "linear-gradient(90deg, #be128d 0%, #ff6cee 100%)",
-    image: "..public/assets/strawberry.png",
+    image: "public/assets/strawberry.png",
     miniImages: [
       "..public/assets/strawberry.png",
       "..public/assets/blueberry.png",
