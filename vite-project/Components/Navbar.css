@@ -1,0 +1,85 @@
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 2rem;
+  background: white;
+  font-family: 'Poppins', sans-serif;
+  font-size: 700;
+}
+
+.navbar__logo {
+  margin-left: 2rem;
+  width: 5.5rem;
+  height: 1.8rem;
+  top: 3.8rem;
+  left: 7.8rem;
+  color: #ffffff;
+  
+}
+.home{
+  width: 4rem;
+  height: 2rem;
+  top: 3.75rem;
+  left: 37.5rem;
+}
+.shop{
+  width: 3.6rem;
+  height: 2rem;
+  top: 3.75rem;
+  left: 46.3rem;
+}
+.delivery{
+  width: 5.8rem;
+  height: 2rem;
+  top: 3.75rem;
+  left: 875rem;
+}
+
+.contact{
+width: 5.1rem;
+height: 2rem;
+top:3.75rem;
+left: 65.25rem;
+}
+
+.navbar__links {
+  list-style: none;
+  display: flex;
+  gap: 3rem;
+  margin: 0;
+  padding: 0;
+   color:#ffffff;
+   font-size: 700;
+   
+}
+
+.navbar__links li {
+  cursor: pointer;
+  font-weight: 500;
+  transition: color 0.3s;
+ 
+}
+
+.navbar__links li:hover {
+  color: #784ba0;
+}
+
+.navbar__cta {
+  
+  color: #ffffff;
+  border: 2px solid #ffffff;
+  padding: 0.7rem 1.4rem;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  background: transparent;
+  width: 15.5rem;
+  height: 2rem;
+  top: 3.75rem;
+  left: 82rem;
+}
+
+.navbar__cta:hover {
+  background: linear-gradient(to right, #784ba0, #ff3cac);
+}
